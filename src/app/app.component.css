@@ -122,10 +122,8 @@
 
 /* VIDEO SECTION */
 .video-section {
-    background-color: green;
     min-height: 100px;
     display: grid;
-    padding: 0 15px;
     grid-gap: 10px 10px;
     align-items: center;
 }
