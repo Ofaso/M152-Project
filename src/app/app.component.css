@@ -315,11 +315,16 @@ body, html {
 }
 
 .impressum-subheader {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 #impressum {
     text-align: center;
-    background-color: #ccc;
+    background-color: #fefefe;
+    padding: 30px;
+}
+
+#aboutus {
+    background-color: #fefefe;
     padding: 30px;
 }
